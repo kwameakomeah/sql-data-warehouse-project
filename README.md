@@ -35,10 +35,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 ## 🛠️ Tools Used:
-Datasets: Access to the project dataset (csv files).
-Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-DrawIO: Design data architecture, models, flows, and diagrams.
-Jira: Project Epics and Tasks.
+- Datasets: Access to the project dataset (csv files).
+- Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- DrawIO: Design data architecture, models, flows, and diagrams.
+- Jira: Project Epics and Tasks.
 
 ---
 ## 🏗️ Data Architecture
